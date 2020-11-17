@@ -1,0 +1,9 @@
+com\form\CatPrdForm.class
+com\util\Utilities.class
+com\entity\User.class
+com\form\IndexForm.class
+com\entity\Product.class
+com\controller\MainController.class
+com\dao\EcommerceDao.class
+com\dao\ProductDao.class
+com\entity\Category.class
